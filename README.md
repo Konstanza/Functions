@@ -1,2 +1,2 @@
 # Functions
-Project for Numerical Analysis course
+Project for Numerical Analysis course.
